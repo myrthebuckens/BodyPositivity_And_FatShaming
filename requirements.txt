@@ -1,0 +1,31 @@
+The following modules are needed to run the code for this project.
+The name of the module is followed by the code you need to run to obtain the right version, indicated by '$', using the pip installation program.
+
+vader-multi 3.2.2.1: 
+$pip uninstall vaderSentiment #this is needed when you have a different version of vader installed.
+$pip install vader-multi
+
+seaborn:
+$pip install seaborn
+
+python-csv:
+$pip install python-csv
+
+nltk:
+$pip install nltk
+
+pandas:
+$pip install pandas
+
+requests:
+$pip install requests 
+
+bs4:
+$pip install bs4
+
+BeautifulSoup:
+$pip install BeautifulSoup
+
+sklearn:
+$pip install -U scikit-learn
+
